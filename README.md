@@ -1,2 +1,3 @@
 # bobwyman.github.io
-Probably not of interest to anyone else.
+
+This is probably not of interest to anyone else at this time. Hopefully, it will become more interesting in the future.
